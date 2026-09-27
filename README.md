@@ -1,4 +1,4 @@
-# 💫 Hakkında
+# Hakkında
 
 Bendeniz kariyerime yön vermek ve yeni fırsatları değerlendirmek amacıyla, farklı alanlarda da  katkı sağlamak isteyen, esnek çalışma anlayışım sayesinde, çeşitli görevleri üstlenme ve ekip içinde uyumlu bir şekilde çalışabilme yeteneğine sahip olan, hızla değişen iş ortamlarına adapte olabilme kabiliyetimi  problem çözme becerilerimle birleşerek, hedeflere ulaşmada etkili bir disiplinlerarası yaklaşım sunan, yenilikçi düşünerek değer katmayı hedefleyen, İskenderun Teknik Üniversitesi'nden mezun, bilgisayar mühendisi Yusuf Aksoy'um. 
 
@@ -13,6 +13,33 @@ Bilgi teknolojileri sektöründe; kaliteli, güvenilir ve premium çözümler su
 ## Değerler
 
 Kalite, güvenilirlik, inovasyon, Hesap verebilirlik, kreativite , Adapte olabilirlik, Bilgi,  çeşitlilik
+
+## Stratejik Hedefler
+ 
+
+1. 2 yıl içerisinde Yenilikçi ürün, hizmet ve süreç geliştirme kapasitesini artırmak amacıyla sürdürülebilir bir Ar-Ge yapısı kurmak; Ar-Ge faaliyetlerini stratejik önceliklerle uyumlu, kaynak tahsisi yapılmış ve çıktı odaklı bir şekilde yönetmek. 
+
+2. 6 ay  içerisinde Kalite yönetim sistemini ISO 9001 başta olmak üzere ilgili uluslararası standartlara uygun olarak tasarlamak, dokümante etmek, uygulamak ve sürekli iyileştirme döngüsü içinde sürdürmek.
+
+3.1 yıl içerisinde Dijital teknolojileri iş modeline, süreçlerine ve karar alma mekanizmalarına entegre ederek veri odaklı, çevik ve dijital olgunluğu yüksek bir  yapı oluşturmak.
+
+4. 1 yıl içerisinde Kaynak kullanımını optimize ederek, israfı ortadan kaldırarak ve süreç verimliliğini artırarak operasyonel maliyetleri sürdürülebilir şekilde düşürmek.
+
+5. 1 yıl içerisinde Tekrarlayan, manuel ve katma değeri düşük iş süreçlerini otomasyon teknolojileri ile yeniden tasarlayarak  stratejik ve analitik görevlere yönelmek. 
+
+6. 6 ay içerisinde Süreç tasarımı, kaynak planlaması ve performans yönetimi aracılığıyla operasyonel verimliliği ölçülebilir şekilde artırmak; verimlilik göstergelerini düzenli olarak izlemek ve iyileştirmek.
+
+7. 3 ay içerisinde Hata kaynaklarını sistematik olarak analiz ederek, düzeltici ve önleyici faaliyetlerle hata oranını minimize etmek; süreç güvenilirliğini ve çıktı kalitesini artırmak. 
+
+8. 2 yıl içerisinde Karar alma, üretim, teslimat ve müşteriye yanıt süreçlerinde çeviklik kazanarak pazara ve müşteri taleplerine daha hızlı yanıt verebilen bir operasyonel yapı oluşturmak.
+
+9. 3 yıl içerisinde Risk yönetimi çerçevesini oluşturarak riskleri tanımlamak, değerlendirmek, önceliklendirmek ve yönetmek; beklenmedik olaylara karşı  dayanıklılığı güçlendirmek.
+
+10. 3 yıl içerisinde Kritik iş fonksiyonlarının kesintisiz devamını sağlamak amacıyla iş sürekliliği planlarını oluşturmak, test etmek ve güncel tutmak; olası kesintilere karşı hazırlıklı bir  yapı tesis etmek.
+
+11. Mevcut ürün ve hizmetleri yurt içi pazarın yanı sıra en az iki yeni uluslararası pazara taşımak amacıyla, 5 yıllık stratejik plan dönemi boyunca, uluslararası satış ve pazarlama birimi koordinasyonunda, pazar araştırması, yerel iş ortaklıkları ve dijital pazarlama yöntemleri kullanılarak, her yeni pazar için ayrı bir giriş stratejisi dokümanı hazırlamak ve ilgili pazarlarda ilk satışlar gerçekleştirilerek toplam cironun en az %5'ini yeni pazarlardan elde etmek.
+
+(Son güncelleme: 27 Eylül 2026 Pazar 09:36) 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yusuf-a-362639217) 
